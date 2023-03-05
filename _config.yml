@@ -3,7 +3,8 @@ title: Richard Feynman
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
-url: ""
+url: "wufan-here.github.io"
+github_repo: "https://github.com/wufan-here/wufan-here.github.io.git"
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
